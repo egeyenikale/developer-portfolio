@@ -1,0 +1,91 @@
+{
+  "slug": "developer-portfolio",
+  "title": "Developer Portfolio",
+  "category": "frontend",
+  "difficulty": "medium",
+  "period": "2025-Q2",
+  "estimatedCommits": 12,
+  "description": "Portfolio website for projects, experience, and skills.",
+  "features": [
+    "Home page",
+    "Projects page",
+    "Experience timeline",
+    "Skill matrix",
+    "Contact section",
+    "Responsive layout"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for experience timeline",
+      "commitMessage": "feat: add validation rules for experience timeline"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for skill matrix",
+      "commitMessage": "feat: add reporting view for skill matrix"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for contact section",
+      "commitMessage": "feat: add export or integration support for contact section"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for responsive layout",
+      "commitMessage": "refactor: improve service boundaries for responsive layout"
+    }
+  ]
+}
