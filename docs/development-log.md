@@ -12,3 +12,7 @@ feat: add core domain model
 
 feat: configure persistence or state layer
 
+## 2025-04-24 - Stage 4
+
+feat: implement main workflow
+
