@@ -38,3 +38,8 @@ export const stage8 = {
   "date": "2025-05-26",
   "message": "ci: add build and test workflow"
 };
+
+export const stage9 = {
+  "date": "2025-05-30",
+  "message": "feat: add validation rules for experience timeline"
+};
