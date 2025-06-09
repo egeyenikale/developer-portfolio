@@ -40,3 +40,7 @@ feat: add validation rules for experience timeline
 
 feat: add reporting view for skill matrix
 
+## 2025-06-09 - Stage 11
+
+feat: add export or integration support for contact section
+
