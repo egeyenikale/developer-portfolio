@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2025-05-30",
   "message": "feat: add validation rules for experience timeline"
 };
+
+export const stage10 = {
+  "date": "2025-06-09",
+  "message": "feat: add reporting view for skill matrix"
+};

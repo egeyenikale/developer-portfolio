@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for experience timeline
 
+## 2025-06-09 - Stage 10
+
+feat: add reporting view for skill matrix
+
